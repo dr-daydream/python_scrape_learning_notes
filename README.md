@@ -1,2 +1,3 @@
 # python_scrape_learning_notes
 My learning notes about python_scrape
+#写自于学习爬虫期间，因为本人没有找到一个真正满意的知识库软件，于是一鼓作气之下，决定拿github来写笔记和上传练习代码
